@@ -1,4 +1,4 @@
-# Algoritmos Ordenação
+# Algoritmos de Ordenação
   
   ## Merge Sort
   
